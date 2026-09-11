@@ -337,20 +337,6 @@ The exact available Make targets depend on the current `Makefile`.
 
 ---
 
-## Run
-
-After compilation, the program can be run using the provided input file:
-
-```bash
-./tema1 < tema1.in
-```
-
-The resulting output is written according to the output handling implemented by the project.
-
-The repository also contains `tema1.out` as an example output.
-
----
-
 ## Testing
 
 A checking script is included in the project:
@@ -428,4 +414,3 @@ AI tools were used for:
 * improving the clarity of technical explanations
 * organizing the documentation of the implemented data structures and operations
 
-The project-specific implementation and integration of the data structures are based on the project's source code.
